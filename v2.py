@@ -47,7 +47,7 @@ eval_iters = config["eval_iters"]
 device = config["device"]
 
 # Load the dataset
-with open("/Users/jigyanshupati/nanogpt/01 Harry Potter and the Sorcerers Stone.txt") as file:
+with open("01 Harry Potter and the Sorcerers Stone.txt") as file:
     books = file.read()
 
 # Preprocess the data
