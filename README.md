@@ -10,4 +10,6 @@ This project implements a **character-level Transformer language model** trained
 - Character-level text generation  
 - Trained on Harry Potter text  
 - Interactive Gradio web interface  
-- Lightweight and easy to run on local machines  
+- Lightweight and easy to run on local machines
+
+![Alt text](image.png)
